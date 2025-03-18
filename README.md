@@ -1,1 +1,2 @@
-# Heart-Attack-Risk-Prediction
+This notebbok focusing on heart attack risk factors and prediction. The dataset contains 10000 records of patients and 26 features. The dataset provides extensive health-related information on individuals across various Indian states, focusing on risk factors contributing to heart attacks. It includes demographic details, medical history, lifestyle factors, and healthcare access insights. The dataset is designed for heart attack prediction and cardiovascular disease research in India. Heart Attack Risk (Target Variable) – 1 (High Risk), 0 (Low Risk)
+[Data source - Kaggle]
